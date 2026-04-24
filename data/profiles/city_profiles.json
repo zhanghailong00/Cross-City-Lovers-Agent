@@ -1,0 +1,48 @@
+{
+  "北京": {
+    "tourism_score": 9.4,
+    "expense_level": 9.5,
+    "tags": ["历史", "博物馆", "美食"]
+  },
+  "杭州": {
+    "tourism_score": 9.0,
+    "expense_level": 8.1,
+    "tags": ["西湖", "散步", "美食"]
+  },
+  "南京": {
+    "tourism_score": 8.8,
+    "expense_level": 7.2,
+    "tags": ["古都", "美食", "散步"]
+  },
+  "合肥": {
+    "tourism_score": 7.3,
+    "expense_level": 6.3,
+    "tags": ["休闲", "轻旅行", "美食"]
+  },
+  "武汉": {
+    "tourism_score": 8.4,
+    "expense_level": 6.8,
+    "tags": ["夜景", "美食", "江景"]
+  },
+  "苏州": {
+    "tourism_score": 8.6,
+    "expense_level": 7.6,
+    "tags": ["园林", "散步", "拍照"]
+  },
+  "广州": {
+    "tourism_score": 8.7,
+    "expense_level": 8.0,
+    "tags": ["美食", "都市", "夜生活"]
+  },
+  "长沙": {
+    "tourism_score": 8.5,
+    "expense_level": 6.7,
+    "tags": ["美食", "夜生活", "娱乐"]
+  },
+  "南昌": {
+    "tourism_score": 7.4,
+    "expense_level": 6.2,
+    "tags": ["轻旅行", "历史", "美食"]
+  }
+}
+

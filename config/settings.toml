@@ -1,0 +1,13 @@
+[app]
+name = "Cross-City Lovers Agent"
+env = "dev"
+host = "127.0.0.1"
+port = 8000
+
+[planner]
+default_days = 2
+default_budget = 3000
+transport_budget_ratio = 0.35
+default_priority = "balanced"
+default_data_mode = "estimated"
+

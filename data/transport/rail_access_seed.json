@@ -1,0 +1,55 @@
+{
+  "北京|南京": {
+    "duration_hours": 4.5,
+    "price": 450
+  },
+  "杭州|南京": {
+    "duration_hours": 2.5,
+    "price": 180
+  },
+  "北京|合肥": {
+    "duration_hours": 4.2,
+    "price": 420
+  },
+  "杭州|合肥": {
+    "duration_hours": 2.2,
+    "price": 160
+  },
+  "北京|武汉": {
+    "duration_hours": 4.8,
+    "price": 520
+  },
+  "杭州|武汉": {
+    "duration_hours": 4.0,
+    "price": 310
+  },
+  "北京|苏州": {
+    "duration_hours": 5.0,
+    "price": 470
+  },
+  "杭州|苏州": {
+    "duration_hours": 1.8,
+    "price": 110
+  },
+  "广州|武汉": {
+    "duration_hours": 4.1,
+    "price": 420
+  },
+  "广州|长沙": {
+    "duration_hours": 2.8,
+    "price": 260
+  },
+  "武汉|长沙": {
+    "duration_hours": 1.6,
+    "price": 150
+  },
+  "广州|南昌": {
+    "duration_hours": 3.6,
+    "price": 320
+  },
+  "武汉|南昌": {
+    "duration_hours": 2.1,
+    "price": 180
+  }
+}
+

@@ -1,0 +1,84 @@
+[
+  {
+    "city_name": "北京",
+    "province": "北京",
+    "city_tier": 1,
+    "rail_hub_level": 9.8,
+    "default_station": "北京南站",
+    "is_popular_destination": true,
+    "aliases": ["北京市"]
+  },
+  {
+    "city_name": "杭州",
+    "province": "浙江",
+    "city_tier": 2,
+    "rail_hub_level": 9.1,
+    "default_station": "杭州东站",
+    "is_popular_destination": true,
+    "aliases": ["杭州市"]
+  },
+  {
+    "city_name": "南京",
+    "province": "江苏",
+    "city_tier": 2,
+    "rail_hub_level": 9.3,
+    "default_station": "南京南站",
+    "is_popular_destination": true,
+    "aliases": ["南京市"]
+  },
+  {
+    "city_name": "合肥",
+    "province": "安徽",
+    "city_tier": 2,
+    "rail_hub_level": 8.7,
+    "default_station": "合肥南站",
+    "is_popular_destination": true,
+    "aliases": ["合肥市"]
+  },
+  {
+    "city_name": "武汉",
+    "province": "湖北",
+    "city_tier": 2,
+    "rail_hub_level": 9.4,
+    "default_station": "武汉站",
+    "is_popular_destination": true,
+    "aliases": ["武汉市"]
+  },
+  {
+    "city_name": "苏州",
+    "province": "江苏",
+    "city_tier": 2,
+    "rail_hub_level": 8.8,
+    "default_station": "苏州北站",
+    "is_popular_destination": true,
+    "aliases": ["苏州市"]
+  },
+  {
+    "city_name": "广州",
+    "province": "广东",
+    "city_tier": 1,
+    "rail_hub_level": 9.5,
+    "default_station": "广州南站",
+    "is_popular_destination": true,
+    "aliases": ["广州市"]
+  },
+  {
+    "city_name": "长沙",
+    "province": "湖南",
+    "city_tier": 2,
+    "rail_hub_level": 9.0,
+    "default_station": "长沙南站",
+    "is_popular_destination": true,
+    "aliases": ["长沙市"]
+  },
+  {
+    "city_name": "南昌",
+    "province": "江西",
+    "city_tier": 2,
+    "rail_hub_level": 8.5,
+    "default_station": "南昌西站",
+    "is_popular_destination": true,
+    "aliases": ["南昌市"]
+  }
+]
+
